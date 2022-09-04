@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>Top 10 American Moments</title>
+<link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        
+        <h1>Top 10 American Moments</h1>
+        <img src="amer'ca.jpg" alt="Typical American">
+<ol reversed>
+<li><h3>Dr. Slone</h3></li>
+    <p>Sussy slone is such an America.</p>
+    <img src="dr_slonus.jpg" alt="Dr. Slonus">
+<li><h3>Hamburger</h3></li>
+    <p>Look at this sussy American food.</p>
+    <img src="susburger.jpg" alt="Sus-burger">
+<li><h3>Ohio</h3></li>
+    <p>America IS Ohio.</p>
+    <img src="ohio.jpg" alt="Ohio moment">
+<li><h3>Walter Hartwell White</h3></li>
+    <p>Walter Hartwell White from Albuquerque, New Mexico.</p>
+    <img src="walterhartwellwhite.jpg" alt="Walter Thumb White">
+<li><h3>Midas Flopper</h3></li>
+    <p>Flop flop Midiss? Much America.</p>
+    <img src="midasflopper.jpg" alt="Flop flop Midiss">
+<li><h3>Lebron Jordan</h3></li>
+    <p>"Do you think that I could be like Lebron Jordan some day?" - some 8 year old kid.</p>
+    <img src="lebronjordan.jpg" alt="Lebron Jordan">
+<li><h3>Detroit</h3></li>
+    <p>Cant have stuff in Detroit.</p>
+    <img src="detroit.gif" alt="Detroit moment">
+<li><h3>Kanye East</h3></li>
+    <p>Kanye East best rapper confirmed 2022?!!1?1?!??</p>
+    <img src="kanyeeast.gif" alt="Kanye East">
+<li><h3>Quandale Dingle</h3></li>
+    <p>"Whats up guys, Quandale Dingle here. *Rehehehehehehe*"</p>
+    <img src="quandaledingle.jpg" alt="Quankale Pringle">
+<li><h3>Gun</h3></li>
+    <p>40% of American households have at least one gun. I feel bad for anyone who would want to invade America.</p>
+    <img src="bananaclipgun.jpg" alt="GUN"><br>
+<br>
+<br>
+<footer>Created by Henry Hoar</footer>
+</ol>
+    </body>
+</html>
